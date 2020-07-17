@@ -1,5 +1,5 @@
 ## おすすめソング(デレマス)
-<img src="https://trs-cutls.netlify.app/.netlify/functions/song?songs">
+<img src="https://trs-cutls.netlify.app/.netlify/functions/song?songs" width="400">
 
 [ソースコード](https://github.com/cutls/today-recommended-song)
 # Cutls

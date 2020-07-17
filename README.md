@@ -20,4 +20,5 @@ a.k.a Cutls P on Fediverse(ActivityPub social network, including Mastodon)
 |  Hexo  | [My blog(Not OSS)](https://blog.cutls.com) |  <progress max="100" value="35">35</progress> |
 |  WordPress  | [My old blog(Not OSS)](https://code.cutls.com) |  <progress max="100" value="60">60</progress> |
 |  Electron  | [TheDesk](https://github.com/cutls/TheDesk) |  <progress max="100" value="70">70</progress> |
-|  Translation (en->ja)  | [Liberapay(weblate)](https://hosted.weblate.org/projects/liberapay/core/ja/) |  <progress max="100" value="75">75</progress> |
+|  Translation (en->ja)  | [Liberapay(weblate)](https://hosted.weblate.org/projects/liberapay/core/ja/) |  <img src="https://status.cutls.com/badge-progress/?prog=75"> |
+

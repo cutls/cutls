@@ -1,3 +1,7 @@
+## おすすめソング(デレマス)
+<img src="https://trs-cutls.netlify.app/.netlify/functions/song?songs">
+
+[ソースコード](https://github.com/cutls/today-recommended-song)
 # Cutls
 
 a.k.a Cutls P on Fediverse(ActivityPub social network, including Mastodon)

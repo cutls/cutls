@@ -10,12 +10,12 @@ a.k.a Cutls P on Fediverse(ActivityPub social network, including Mastodon)
 |  TypeScript  | [quesdon(forked)](https://github.com/cutls/quesdon), [isolittlify(forked)](https://github.com/cutls/isolittlify) |  <img src="https://status.cutls.com/badge-progress/?prog=40"> |
 |  PHP  | [MinimumStatus](https://github.com/cutls/MinimumStatus) |  <img src="https://status.cutls.com/badge-progress/?prog=65"> |
 |  Go  | ---- |  <img src="https://status.cutls.com/badge-progress/?prog=5"> |
-|  CSS  | [My portfolio](https://github.com/cutls/cutls.dev) |  <img src="https://status.cutls.com/badge-progress/?prog=75"> |
-|  HTML  | [My portfolio](https://github.com/cutls/cutls.dev) |  <img src="https://status.cutls.com/badge-progress/?prog=75"> |
+|  CSS  | [My portfolio](https://github.com/cutls/cutls.dev) |  <img src="https://status.cutls.com/badge-progress/?prog=74"> |
+|  HTML  | [My portfolio](https://github.com/cutls/cutls.dev) |  <img src="https://status.cutls.com/badge-progress/?prog=74"> |
 |  Vue  | [Spamastodon](https://github.com/cutls/Spamastodon) |  <img src="https://status.cutls.com/badge-progress/?prog=40"> |
 |  React  | [quesdon(forked)](https://github.com/cutls/quesdon), [isolittlify(forked)](https://github.com/cutls/isolittlify) |  <img src="https://status.cutls.com/badge-progress/?prog=40"> |
 |  ReactNative  | [ikuradon(forked)](https://github.com/cutls/ikuradon) |  <img src="https://status.cutls.com/badge-progress/?prog=30"> |
-|  jQuery  | [TheDesk](https://github.com/cutls/TheDesk) |  <img src="https://status.cutls.com/badge-progress/?prog=75"> |
+|  jQuery  | [TheDesk](https://github.com/cutls/TheDesk) |  <img src="https://status.cutls.com/badge-progress/?prog=74"> |
 |  Hugo  | [TheDesk Docs](https://github.com/cutls/TheDeskDocs) |  <img src="https://status.cutls.com/badge-progress/?prog=35"> |
 |  Hexo  | [My blog(Not OSS)](https://blog.cutls.com) |  <img src="https://status.cutls.com/badge-progress/?prog=35"> |
 |  WordPress  | [My old blog(Not OSS)](https://code.cutls.com) |  <img src="https://status.cutls.com/badge-progress/?prog=60"> |

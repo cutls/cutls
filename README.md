@@ -16,7 +16,7 @@ a.k.a Cutls P on Fediverse(ActivityPub social network, including Mastodon)
 |  Keyword  |  Products  |  Skill  |
 | ---- | ---- | ---- |
 |  JavaScript  | [TheDesk](https://github.com/cutls/TheDesk) | <img src="https://status.cutls.com/badge-progress/?prog=60">  |
-|  TypeScript  | [quesdon(forked)](https://github.com/cutls/quesdon), [isolittlify(forked)](https://github.com/cutls/isolittlify) |  <img src="https://status.cutls.com/badge-progress/?prog=40"> |
+|  TypeScript  | [quesdon(forked)](https://github.com/cutls/quesdon), [today-recommended-song](https://github.com/cutls/today-recommended-song) |  <img src="https://status.cutls.com/badge-progress/?prog=45"> |
 |  PHP  | [MinimumStatus](https://github.com/cutls/MinimumStatus) |  <img src="https://status.cutls.com/badge-progress/?prog=65"> |
 |  Go  | ---- |  <img src="https://status.cutls.com/badge-progress/?prog=5"> |
 |  CSS  | [My portfolio](https://github.com/cutls/cutls.dev) |  <img src="https://status.cutls.com/badge-progress/?prog=74"> |
